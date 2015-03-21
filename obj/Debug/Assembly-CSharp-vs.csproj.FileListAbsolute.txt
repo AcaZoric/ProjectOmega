@@ -1,0 +1,13 @@
+C:\Users\Aleksandar\Documents\ProjectOmega\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\obj\Debug\Assembly-CSharp.dll
+C:\Users\Aleksandar\Documents\ProjectOmega\obj\Debug\Assembly-CSharp.pdb
